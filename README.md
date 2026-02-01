@@ -1,6 +1,6 @@
 # ijkParameterPlotter
 <h2>3D Parametric equation rendering in python turtle, designed for single runs in order to maximize performance.</h2>
-<img width="1879" height="1121" alt="image" src="https://github.com/user-attachments/assets/03da13ce-f516-4159-89ba-603f9fcdc53b" />
+<img width="1827" height="1197" alt="image" src="https://github.com/user-attachments/assets/85c4d80e-d5d5-4e74-b387-1eb92981dc90" />
 </br>
  </br><blockquote>To adjust the ammount of rendering steps depending on your system, consult the last lines of code.</blockquote>
 <h1>o------------------------ [ A P P E N D I X ] ------------------------o</h1>
