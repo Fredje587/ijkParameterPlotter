@@ -10,7 +10,7 @@
  - Parameter presets (SpinningRose, FlyingButterfly, CircularPolarizer, TumblingDonut)
  - Spinning graphs (customizeable speed)
 To adjust the ammount of steps, consult the last lines of code.
-# o--------------------------- [ A P P E N D I X ] ---------------------------o
+# o------------------------- [ A P P E N D I X ] -------------------------o
 # o----------------------------------------------------------------------------o
 <section>
     <h3>Presets</h3>
