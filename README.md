@@ -10,8 +10,8 @@
  - Parameter presets (SpinningRose, FlyingButterfly, CircularPolarizer, TumblingDonut)
  - Spinning graphs (customizeable speed)
 To adjust the ammount of steps, consult the last lines of code.
-# o---------------------------- [ A P P E N D I X ] ----------------------------o
-# o------------------------------------------------------------------------------o
+# o--------------------------- [ A P P E N D I X ] ---------------------------o
+# o----------------------------------------------------------------------------o
 <section>
     <h3>Presets</h3>
     <p>
@@ -22,7 +22,7 @@ To adjust the ammount of steps, consult the last lines of code.
     </blockquote>
   </section>
 
-# o------------------------------------------------------------------------------o
+# o----------------------------------------------------------------------------o
 
   <section>
     <h3>Visuals & Perspective</h3>
@@ -40,7 +40,7 @@ To adjust the ammount of steps, consult the last lines of code.
     </ul>
   </section>
 
-# o------------------------------------------------------------------------------o
+# o----------------------------------------------------------------------------o
 
   <section>
     <h3>Mathematical Inputs</h3>
@@ -59,7 +59,7 @@ To adjust the ammount of steps, consult the last lines of code.
     </p>
   </section>
 
-# o------------------------------------------------------------------------------o
+# o----------------------------------------------------------------------------o
 
   <section>
     <h3>Special Modules</h3>
@@ -73,7 +73,7 @@ To adjust the ammount of steps, consult the last lines of code.
     </ul>
   </section>
 
-# o------------------------------------------------------------------------------o
+# o----------------------------------------------------------------------------o
 
 <img width="1879" height="1121" alt="image" src="https://github.com/user-attachments/assets/03da13ce-f516-4159-89ba-603f9fcdc53b" />
 <p> - Static image of the Lorenz Attractor plotted via the differential systems module.</p>
