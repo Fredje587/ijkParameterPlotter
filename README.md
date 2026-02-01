@@ -1,5 +1,5 @@
 # ijkParameterPlotter
-3D Parametric equation rendering in python turtle
+3D Parametric equation rendering in python turtle, designed for single runs in order to maximize performance.
 
 <strong>version 1.0</strong>
  - 3D/2D Parametric equation plotting
