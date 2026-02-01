@@ -13,3 +13,6 @@ To adjust the ammount of steps, consult the last lines of code.
 For further explaination, read the appendix given when you run the program.
 
 <img width="1827" height="1197" alt="image" src="https://github.com/user-attachments/assets/8a8afd3c-1736-4a7c-96f2-6bc7f94466d4" />
+<img width="1881" height="1125" alt="image" src="https://github.com/user-attachments/assets/1e5cadef-01b1-4c82-a37a-434b2c48d2b4" />
+ - Static image of the oscilloscope
+
