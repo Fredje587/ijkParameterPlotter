@@ -1,9 +1,10 @@
 # ijkParameterPlotter
-<h2>3D Parametric equation rendering in python turtle, designed for single runs in order to maximize performance.</h2>
+<h3>3D Parametric equation rendering in python turtle, designed for single runs in order to maximize performance.</h3>
+<hr />
 <img width="1879" height="1121" alt="image" src="https://github.com/user-attachments/assets/5f6f987c-55bc-47f4-9541-5d9ef440af30" />
 </br>
  </br><blockquote>To adjust the ammount of rendering steps depending on your system, consult the last lines of code.</blockquote>
-<h1>o------------------------ [ A P P E N D I X ] ------------------------o</h1>
+<h1>[ A P P E N D I X ]</h1>
 <section>
     <h3>Presets</h3>
     <p>
@@ -14,7 +15,7 @@
     </blockquote>
   </section>
 
-# o----------------------------------------------------------------------------o
+
 
   <section>
     <h3>Visuals & Perspective</h3>
@@ -32,7 +33,7 @@
     </ul>
   </section>
 
-# o----------------------------------------------------------------------------o
+
 
   <section>
     <h3>Mathematical Inputs</h3>
@@ -51,7 +52,7 @@
     </p>
   </section>
 
-# o----------------------------------------------------------------------------o
+
 
   <section>
     <h3>Special Modules</h3>
@@ -64,8 +65,7 @@
       </li>
     </ul>
   </section>
-
-# o----------------------------------------------------------------------------o
+<hr />
 <img width="649" height="931" alt="image" src="https://github.com/user-attachments/assets/7db3a4f6-a1d0-444b-92af-52f00d920e3d" />
 <p> - The main menu, with a chosen module.</p>
 <hr />
